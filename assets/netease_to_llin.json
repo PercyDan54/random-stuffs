@@ -954,6 +954,38 @@
       "TitleMatchMode": 1,
       "ArtistMatchMode": 1,
       "Beatmaps": []
+    },
+    {
+      "Target": 2672821088,
+      "MatchingTitle": [ "デウス・エクス・マキナ", "Deus Ex Machina" ],
+      "MatchingArtist": [ "iojjj" ],
+      "TitleMatchMode": 1,
+      "ArtistMatchMode": 1,
+      "Beatmaps": []
+    },
+    {
+      "Target": 29823095,
+      "MatchingTitle": [ "絶対特権主張しますっ！ 星輝子ソロ・リミックス", "Zettai Tokken Shuchou Shimasu! Hoshi Syoko Solo Remix" ],
+      "MatchingArtist": [ "星輝子(CV:松田颯水)", "Syoko Hoshi (CV: Satsumi Matsuda)" ],
+      "TitleMatchMode": 1,
+      "ArtistMatchMode": 1,
+      "Beatmaps": []
+    },
+    {
+      "Target": 554245891,
+      "MatchingTitle": [ "Vitamins feat. world's end girlfriend" ],
+      "MatchingArtist": [ "Mili" ],
+      "TitleMatchMode": 1,
+      "ArtistMatchMode": 1,
+      "Beatmaps": []
+    },
+    {
+      "Target": 579853,
+      "MatchingTitle": [ "口笛ジェット", "Kuchibue Jietto" ],
+      "MatchingArtist": [ "花澤香菜", "Hanazawa Kana" ],
+      "TitleMatchMode": 1,
+      "ArtistMatchMode": 1,
+      "Beatmaps": []
     }
   ]
 }
